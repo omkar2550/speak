@@ -1,2 +1,2 @@
 # speak
-pyaudio 32bit system
+pyaudio whl 32bit system
